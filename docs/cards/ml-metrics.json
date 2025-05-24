@@ -1,0 +1,14 @@
+{
+  "DenseNet121": {
+    "accuracy": 0.9918,
+    "balanced_f1_macro": 0.9919
+  },
+  "ViT_base_patch16_224": {
+    "accuracy": 0.9714,
+    "balanced_f1_macro": 0.9723
+  },
+  "ResNet50": {
+    "accuracy": 0.9878,
+    "balanced_f1_macro": 0.9878
+  }
+}
